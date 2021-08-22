@@ -1,0 +1,17 @@
+.works-grid__item {
+  height: 200px;
+  width: 288px;
+  text-decoration: none;
+  margin: auto 0;
+  color: #fff4e6;
+  font-size: 35px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.works-grid__item:hover {
+  transition: 1s;
+  transform: scale(1.2);
+  box-shadow: 0 0 0 99999px rgba(60, 47, 47, 0.8);
+}

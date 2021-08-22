@@ -1,0 +1,12 @@
+.works__title {
+  margin: 0 auto;
+  text-align: center;
+  font-size: 50px;
+  max-width: 20%;
+}
+
+@media (max-width: 1000px) {
+  .works__title {
+    display: none;
+  }
+}

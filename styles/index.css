@@ -1,0 +1,11 @@
+@import url("../normalize/normalize.css");
+@import url("../blocks/main/main.css");
+@import url("../blocks/header/header.css");
+@import url("../blocks/works-grid/works-grid.css");
+@import url("../blocks/works/works.css");
+@import url("../blocks/intro/intro.css");
+@import url("../blocks/page/page.css");
+@import url("../blocks/resume/resume.css");
+@import url("../blocks/info/info.css");
+@import url("../blocks/contact/contact.css");
+@import url("../fonts/fonts.css");

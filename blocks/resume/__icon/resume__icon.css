@@ -1,0 +1,15 @@
+.resume__icon {
+  width: 150px;
+}
+
+@media (max-width: 768px) {
+  .resume__icon {
+    width: 120px;
+  }
+}
+
+@media (max-width: 650px) {
+  .resume__icon {
+    display: none;
+  }
+}

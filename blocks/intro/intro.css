@@ -1,0 +1,12 @@
+@import url("./__container/intro__container.css");
+@import url("./__ph/intro__ph.css");
+@import url("./__subtitle/main__subtitle.css");
+@import url("./__title/main__title.css");
+
+.intro {
+  margin: 20px auto 0px auto;
+  max-width: 1184px;
+  display: flex;
+  flex-direction: column;
+  color: #fff4e6;
+}

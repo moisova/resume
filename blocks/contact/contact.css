@@ -1,0 +1,13 @@
+@import url("./__links/contact__links.css");
+@import url("./__links-list/contact__links-list.css");
+@import url("./__link/contact__link.css");
+
+.contact {
+  margin-right: 5%;
+}
+
+@media (max-width: 650px) {
+  .contact {
+    margin-right: -18px;
+  }
+}

@@ -1,0 +1,20 @@
+.contact__links {
+  display: flex;
+  flex-direction: column;
+  list-style-type: none;
+  padding: 0;
+  color: #fff4e6;
+  font-size: 40px;
+}
+
+@media (max-width: 768px) {
+  .contact__links {
+    font-size: 30px;
+  }
+}
+
+@media (max-width: 650px) {
+  .contact__links {
+    margin: 0 0 30px;
+  }
+}

@@ -1,0 +1,20 @@
+@import url("./__item/works-grid__item.css");
+@import url("./__item/works-grid__item_study.css");
+@import url("./__item/works-grid__item_russia.css");
+@import url("./__item/works-grid__item_react.css");
+@import url("./__item/works-grid__item_js.css");
+
+.works-grid {
+  max-width: 50%;
+  margin: 50px 0 50px 11%;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 16px;
+}
+
+@media (max-width: 680px) {
+  .works-grid {
+    grid-template-columns: repeat(1, 1fr);
+    margin: 80px 0 80px 17%;
+  }
+}

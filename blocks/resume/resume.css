@@ -1,0 +1,10 @@
+@import url("./__icon/resume__icon.css");
+@import url("./__download/resume__download.css");
+
+.resume {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  color: #fff4e6;
+  max-width: 50%;
+}

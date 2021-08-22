@@ -1,0 +1,10 @@
+@import url("./__title/works__title.css");
+
+.works {
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  background-color: #fff4e6;
+  clip-path: polygon(0 0%, 100% 5%, 100% 95%, 0% 100%);
+  color: #3c2f2f;
+}
